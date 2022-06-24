@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "cc.cans.canscloud",
+    "sha256_cert_fingerprints":
+    ["54:2C:43:E7:5E:DA:93:0F:B8:66:1A:67:B2:26:82:E8:C2:97:F8:24:ED:73:D5:62:5A:A2:B4:56:B9:16:AC:FB"]
+  }
+}]
