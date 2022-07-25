@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "N27H9XFR3R.cc.cans.canscloud ",
+                "paths": ["NOT /e/*", "*","/"]
+            }
+        ]
+    }
+}
